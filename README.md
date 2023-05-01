@@ -8,4 +8,4 @@ gracias!*
 
 Take a lil sneak peek below:  
 
-[Calculator](https://github.com/Tchybooxur/Neumorphic-Calculator/blob/master/Neumorphic%20Calculator%201.jpg)
+![Calculator](https://github.com/Tchybooxur/Neumorphic-Calculator/blob/master/Neumorphic%20Calculator%201.jpg)
